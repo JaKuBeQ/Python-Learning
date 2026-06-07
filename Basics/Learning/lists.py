@@ -34,3 +34,5 @@ tropical = ["mango", "pineapple", "papaya"]
 thislist.extend(tropical) #extending thislist by all of the tropical list value
 
 print(thislist)
+
+# list methods https://www.w3schools.com/python/python_lists_methods.asp
