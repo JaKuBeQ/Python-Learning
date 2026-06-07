@@ -7,4 +7,3 @@ word2 = float(123)
 
 print(ints, floats, strings, word, word2)
 print(type(ints), type(floats), type(strings), type(word), type(word2))
-
