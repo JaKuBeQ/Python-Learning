@@ -42,3 +42,29 @@ while i < 6:
   if i == 3:
     break
   i += 1
+
+#for working like while with break, continue and pass
+print("for example:")
+for i in range(1, 6):
+  print(i)
+
+for x in "banana":
+  print(x)
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+  if x == "banana":
+    break
+
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished!")
+
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for x in adj:
+  for y in fruits:
+    print(x, y)
