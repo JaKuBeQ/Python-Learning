@@ -22,7 +22,7 @@ else:
     elif player_choice == "scissors" and computer_choice == "paper":
         print("You win!")
     else:
-        print("You lose!")
+        print("You lose! ")
 
 
 
